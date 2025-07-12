@@ -1,7 +1,7 @@
 import imagekit from "../config/imageKit.js";
 import User from "../models/User.js";
 import fs from "fs";
-import Car from "../models/car.js"; // ✅ Import this at the top
+import Car from "../models/Car.js"; // ✅ Import this at the top
 import Booking from "../models/Booking.js";
 
 
